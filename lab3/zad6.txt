@@ -1,0 +1,2 @@
+BusinessEntityID,rowguid,ModifiedDate,PersonType,NameStyle,Title,FirstName,MiddleName,LastName,Suffix,EmailPromotion
+20880,{92C4279F-1207-48A3-8448-4636514EB7E3},2022-10-31 21:56:44.993000000,EM,False,Mr.,Chris,Albert,White,,0
